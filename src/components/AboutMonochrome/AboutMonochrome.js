@@ -121,7 +121,11 @@ function AboutMonoChrome() {
                 <h4>RESERVE A SEAT!</h4>
                 <p>Enjoy yourself, Meet new people, and party like never before </p>
                 <br />
-                <button>Make Reservation</button>
+                <button>
+                    <a href="https://www.monochrome.ng/" target="_blank" rel="noreferrer">
+                        Make Reservation
+                    </a>
+                </button>
             </ReserveTable>
             <Footer>
                 <p>© 2022 MonoChrome. All Rights Reserved.</p>
