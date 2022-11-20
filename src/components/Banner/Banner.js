@@ -13,19 +13,10 @@ function Banner() {
                     people seeking ways to engage positively. lorem ipsum dolor sit amet,
                     consectetur adipiscing elit. Sed euismod, nunc ut aliquam aliquam, nunc nisl
                     aliquet nisl, sed aliquet lorem ipsum sed dolor. Sed euismod, nunc ut aliquam
-                    aliquam, nunc nisl aliquet nisl, sed aliquet lorem ipsum sed dolor. lorem ipsum
-                    dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut aliquam
-                    aliquam, nunc nisl aliquet nisl, sed aliquet lorem ipsum sed dolor. Sed euismod,
-                    nunc ut aliquam aliquam, nunc nisl aliquet nisl, sed aliquet lorem ipsum sed
-                    dolor. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod,
-                    nunc ut aliquam aliquam, nunc nisl aliquet nisl, sed aliquet lorem ipsum sed
-                    dolor. Sed euismod, nunc ut aliquam aliquam, nunc nisl aliquet nisl, sed aliquet
-                    lorem ipsum sed dolor.
+                    aliquam.
                     <br /> <br />
                     lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut
-                    aliquam aliquam, nunc nisl aliquet nisl, sed aliquet lorem ipsum sed dolor. Sed
-                    euismod, nunc ut aliquam aliquam, nunc nisl aliquet nisl, sed aliquet lorem
-                    ipsum sed dolor.
+                    aliquam aliquam.
                 </h5>
             </BannerText>
             <CTA>

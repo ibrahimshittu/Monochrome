@@ -193,9 +193,10 @@ const ReserveTable = styled.div`
     p {
         font-size: 1rem;
         font-weight: 800;
-        margin: 1rem 0;
+        margin: 1rem 1.5rem;
         color: #fff;
         line-height: 1.3;
+        text-align: center;
     }
 
     button {
