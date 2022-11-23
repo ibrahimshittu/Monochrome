@@ -1,5 +1,5 @@
 import React from "react";
-import { BannerImage, BannerText, CTA } from "./BannerStyles";
+import { BannerImage } from "./BannerStyles";
 
 function Banner() {
     return (
