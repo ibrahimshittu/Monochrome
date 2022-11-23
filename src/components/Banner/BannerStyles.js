@@ -19,7 +19,7 @@ const BannerText = styled.div`
     align-items: center;
 
     h5 {
-        width: 80%;
+        width: 100%;
         font-size: 1.4rem;
         font-weight: 800;
         color: #fff;
@@ -32,8 +32,26 @@ const CTA = styled.div`
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-direction: row;
     align-items: center;
     margin-top: 4rem;
+
+    button:first-child {
+        padding: 1rem 3rem;
+        background-color: #fff;
+        color: #000;
+        font-size: 1.4rem;
+        font-weight: 800;
+        border: none;
+        border-radius: 40px;
+        margin-right: 20px;
+
+        a {
+            text-decoration: none;
+            color: #000;
+            font-family: "Barlow", cursive;
+        }
+    }
 
     button {
         padding: 1rem 3rem;
@@ -48,6 +66,19 @@ const CTA = styled.div`
             text-decoration: none;
             color: #000;
             font-family: "Barlow", cursive;
+        }
+    }
+
+    @media (max-width: 1024px) {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4rem;
+
+        button:first-child {
+            margin-right: 0;
         }
     }
 `;

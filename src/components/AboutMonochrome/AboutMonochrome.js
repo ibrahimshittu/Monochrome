@@ -1,4 +1,5 @@
 import React from "react";
+import { BannerText, CTA } from "../Banner/BannerStyles";
 import {
     AboutMonochrome,
     Footer,
@@ -14,13 +15,9 @@ import {
 function AboutMonoChrome() {
     return (
         <div>
-            <br /> <br />
-            <br /> <br />
-            <br /> <br />
-            <hr />
             <AboutMonochrome>
                 <LeftSide>
-                    <p>No one does it like MonoChrome!</p>
+                    {/* <p>No one does it like MonoChrome!</p>
                     <h6>Why Choose Us?</h6>
                     <h4>
                         lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc
@@ -33,7 +30,41 @@ function AboutMonoChrome() {
                         <br /> <br />
                         lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc
                         ut aliquam aliquam, nunc nisl aliquet
-                    </h4>
+                    </h4> */}
+                    <BannerText>
+                        <h5>
+                            Monochrome is an authentic recreation and entertainment group driven by
+                            young people seeking ways to engage positively.
+                            <br />
+                            <br />
+                            We believe in freedom that is guided by our dignity and right judgment.
+                            <br />
+                            <br />
+                            We believe in the power of play— accessible, responsible and fun. We
+                            believe in community and connection
+                        </h5>
+                    </BannerText>
+                    <CTA>
+                        <button>
+                            <a
+                                href="https://docs.google.com/forms/d/e/1FAIpQLScgu0GlPVaoTf6QsmkdLaRzkB0DUpD9Z85T5p6IXi2gtnpNDQ/viewform"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                Reserve a Seat
+                            </a>
+                        </button>
+                        <br />
+                        <button>
+                            <a
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSey7UENiFmTPC56xCY0CB3-buKg8UghguaEJiUVq2TYwBnrRg/viewform"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                Reserve a Stand
+                            </a>
+                        </button>
+                    </CTA>
                 </LeftSide>
                 <RightSide>
                     <img
@@ -42,7 +73,7 @@ function AboutMonoChrome() {
                     />
                 </RightSide>
             </AboutMonochrome>
-            <MoreAboutMonochrome>
+            {/* <MoreAboutMonochrome>
                 <LeftSideMore>
                     <p>No one does it like MonoChrome!</p>
                     <h6>Why Choose Us?</h6>
@@ -65,8 +96,8 @@ function AboutMonoChrome() {
                         alt="banner"
                     />
                 </RightSide>
-            </MoreAboutMonochrome>
-            <AboutMonochrome>
+            </MoreAboutMonochrome> */}
+            {/* <AboutMonochrome>
                 <LeftSide>
                     <p>No one does it like MonoChrome!</p>
                     <h6>Why Choose Us?</h6>
@@ -89,7 +120,7 @@ function AboutMonoChrome() {
                         alt="banner"
                     />
                 </RightSide>
-            </AboutMonochrome>
+            </AboutMonochrome> */}
             <MediaAndGalleries>
                 <h4>Media and Galleries</h4>
                 <Pictures>
@@ -122,7 +153,11 @@ function AboutMonoChrome() {
                 <p>Enjoy yourself, Meet new people, and party like never before </p>
                 <br />
                 <button>
-                    <a href="https://www.monochrome.ng/" target="_blank" rel="noreferrer">
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLScgu0GlPVaoTf6QsmkdLaRzkB0DUpD9Z85T5p6IXi2gtnpNDQ/viewform"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         Make Reservation
                     </a>
                 </button>
