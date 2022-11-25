@@ -45,7 +45,7 @@ function AboutMonoChrome() {
                     <CTA>
                         <button>
                             <a
-                                href="https://docs.google.com/forms/d/e/1FAIpQLScgu0GlPVaoTf6QsmkdLaRzkB0DUpD9Z85T5p6IXi2gtnpNDQ/viewform"
+                                href="https://forms.gle/ptWL5JuiKFPZGrgb9"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -151,11 +151,7 @@ function AboutMonoChrome() {
                 <p>Enjoy yourself, Meet new people, and party like never before </p>
                 <br />
                 <button>
-                    <a
-                        href="https://docs.google.com/forms/d/e/1FAIpQLScgu0GlPVaoTf6QsmkdLaRzkB0DUpD9Z85T5p6IXi2gtnpNDQ/viewform"
-                        target="_blank"
-                        rel="noreferrer"
-                    >
+                    <a href="https://forms.gle/ptWL5JuiKFPZGrgb9" target="_blank" rel="noreferrer">
                         Make Reservation
                     </a>
                 </button>
