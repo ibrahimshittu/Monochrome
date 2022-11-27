@@ -55,7 +55,7 @@ function AboutMonoChrome() {
                         <br />
                         <button>
                             <a
-                                href="https://docs.google.com/forms/d/e/1FAIpQLScCM8QZx4ggKg3Sy-81B4cEELsrdIoeXjITr1gEn8PHeIwGww/viewform"
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSdjWZTZTh9jwKUgJJdTcYm-riGxs0agiVXzEkBByGdXLiJL3Q/viewform"
                                 target="_blank"
                                 rel="noreferrer"
                             >
