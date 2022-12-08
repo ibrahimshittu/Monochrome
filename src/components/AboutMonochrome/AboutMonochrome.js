@@ -31,8 +31,8 @@ function AboutMonoChrome() {
                     </h4> */}
                     <BannerText>
                         <h5>
-                            Monochrome is an authentic recreation and entertainment group driven by
-                            young people seeking ways to engage positively.
+                            Monochrome is an authentic recreation and entertainment community-driven
+                            by young people seeking ways to engage positively.
                             <br />
                             <br />
                             We believe in freedom that is guided by our dignity and right judgment.
